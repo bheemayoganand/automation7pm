@@ -15,6 +15,8 @@ public class swapwithoutusingtemp {
 		
 		a=a-b;//700-300=400
 		
+		System.out.println("Hi");
+		
 		
 		System.out.println("After swapping values are.."+a+"  "+b);
 	}

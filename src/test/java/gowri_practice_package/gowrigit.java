@@ -1,6 +1,6 @@
 package gowri_practice_package;
 
-public class democlass {
+public class gowrigit {
 	
 	public static void main(String[] args) {
 		

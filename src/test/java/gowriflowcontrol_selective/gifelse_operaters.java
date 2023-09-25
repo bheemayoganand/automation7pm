@@ -1,4 +1,4 @@
-package gowriflowcontrol;
+package gowriflowcontrol_selective;
 
 public class gifelse_operaters {
 

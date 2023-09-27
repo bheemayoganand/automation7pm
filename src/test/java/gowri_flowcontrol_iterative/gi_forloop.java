@@ -1,6 +1,6 @@
-package gowriflowcontrol_iterative;
+package gowri_flowcontrol_iterative;
 
-public class gipractice_forloop {
+public class gi_forloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

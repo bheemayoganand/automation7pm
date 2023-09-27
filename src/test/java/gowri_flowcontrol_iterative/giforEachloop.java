@@ -1,4 +1,4 @@
-package gowriflowcontrol_iterative;
+package gowri_flowcontrol_iterative;
 
 public class giforEachloop {
 

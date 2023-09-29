@@ -1,4 +1,4 @@
-package dinesh_package;
+package dinesh_datatype;
 
 public class methods_datatype {
 

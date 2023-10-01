@@ -1,4 +1,4 @@
-package dinesh_package;
+package dinesh_JavaProgrammes;
 
 import java.util.Scanner;
 

@@ -21,7 +21,7 @@ public class StaticVSnonstatic {
 		// TODO Auto-generated method stub
 
 		int x = 9999; //local variable
-		System.out.println("local variable value" + " " + x);  // after run the programme first "LOCAL VARIABLE VALUE9999 will print
+		System.out.println("local variable value" + " " + x);  // after run the programme first "LOCAL VARIABLE VALUE 9999 will print
 												// bcos it is local variable in main method which is static
 		
 		methodone();//this is used to print "STATIC VARIABLE VALUE 9999". this statement is used to print the value which outside the main method

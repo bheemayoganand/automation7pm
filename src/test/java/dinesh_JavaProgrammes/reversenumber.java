@@ -1,4 +1,4 @@
-package dinesh_package;
+package dinesh_JavaProgrammes;
 
 public class reversenumber {
 

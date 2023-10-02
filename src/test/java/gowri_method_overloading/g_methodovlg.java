@@ -21,7 +21,7 @@ public static void methodgowri(String s6, float f6) {
 	 System.out.println(s6+","+f6);
 }	
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 
 		methodgowri(108,"gowri",3.5f);

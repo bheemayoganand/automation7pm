@@ -16,7 +16,6 @@ public class reversestring {
 		}
 		System.out.println("reversed string is: " +rev);
 				
-
 	}
 
 }
